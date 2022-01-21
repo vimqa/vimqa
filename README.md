@@ -13,6 +13,8 @@ human-generated and has four main features:
 
 4. The dataset is in Vietnamese, a low-resource language
 
+The dataset is created using the [VIMQA-Maker](https://github.com/vimqa/vimqa-maker) tool.
+
 ## Dataset Overview
 
 - Total examples: 10,047
